@@ -1,3 +1,3 @@
 # Lab 2
 
-![Lab Image](images/spider.png)
+![Lab Image](images/spider.jpg)
